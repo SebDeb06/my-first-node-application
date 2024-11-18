@@ -1,0 +1,15 @@
+{
+  "name": "my-first-node-application",
+  "version": "1.0.0",
+  "description": "Mitt første node prosjekt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "ws": "^8.18.0"
+  }
+}
